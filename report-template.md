@@ -60,8 +60,8 @@ TODO: Replace the image below with your own.
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
-https://github.com/HebaMa7moud/Bike-sharing-demand/blob/main/model_test_score.png
-![model_test_score.png](img/model_test_score.png)
+
+![model_test_score.png](https://github.com/HebaMa7moud/Bike-sharing-demand/blob/main/model_test_score.png)
 
 ## Summary
 TODO: Add your explanation
